@@ -2,4 +2,4 @@
 
 Live at [https://saikirancvn.github.io/Monster-Roledex/](https://saikirancvn.github.io/Monster-Roledex/) .
 
-It is a simple React App.
+It's a simple React App.
